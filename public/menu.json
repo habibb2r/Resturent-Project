@@ -456,3 +456,82 @@
         "price": 10.5
     }
 ]
+
+[{
+    "name": "English Language",
+    "instructor": "Israt Jahan Era",
+    "image": "https://i.ibb.co/G3PGLrL/english.jpg",
+    "sit": 12,
+    "price": 5000
+},
+{
+    "name": "Spanish Language",
+    "instructor": "Osman Gani Shakib",
+    "image": "https://i.ibb.co/2cT1yjj/spanish.jpg",
+    "sit": 8,
+    "price": 7000
+},
+{
+    "name": "Japan Language",
+    "instructor": "Faisal Amin Sifat",
+    "image": "https://i.ibb.co/D4PXx3B/japan.webp",
+    "sit": 10,
+    "price": 6500
+},
+{
+    "name": "Arabic Language",
+    "instructor": "Md Habib Ullah",
+    "image": "https://i.ibb.co/vQzj8Bc/arabic.webp",
+    "sit": 15,
+    "price": 8500
+},
+]
+[
+    {
+        "name": "Israt Jahan Era",
+        "course": "English Language",
+        "email" : "israt@jahan.era",
+        "image": "https://i.ibb.co/g3hy4JY/ins3.png",
+        "details": "Meet Era, a seasoned English teacher with a passion for empowering students through language. With her engaging teaching style, vast knowledge, and years of experience, she creates an immersive learning environment where students develop strong communication skills and a love for English. Era's dedication and commitment to her students make her a sought-after professional in the realm of English education."
+    },
+    {
+        "name": "Osman Gani Sakib",
+        "course": "Spanish Language",
+        "email" : "OsGani@gmail.com",
+        "image": "https://i.ibb.co/9Z1NScG/ins4.png",
+        "details": "Introducing Sakib, a highly skilled Spanish language teacher dedicated to helping students master the intricacies of this beautiful language. With his dynamic teaching methods, cultural insights, and personalized approach, Sakib creates an immersive and enriching learning experience that fosters fluency and a deep appreciation for Spanish. His expertise and passion make him a sought-after professional in the realm of Spanish language education."
+    },
+    
+    {
+        "name": "Faisal Amin Sifat",
+        "course": "Japan Language",
+        "email" : "faisal@gamil.com",
+        "image": "https://i.ibb.co/dbQ6Svh/ins5.png",
+        "details": "Meet Sifat, a seasoned Japanese language teacher committed to guiding students on a journey to master the complexities of the Japanese language. With his engaging teaching style, cultural expertise, and personalized approach, Hiroshi creates an immersive and dynamic learning environment where students gain fluency and a deep understanding of Japanese. His dedication and proficiency make him a sought-after professional in the realm of Japanese language education."
+    },
+    
+    {
+        "name": "Md Habib Ullah",
+        "course": "Arabic Language",
+        "email" : "Habib@gmail.com",
+        "image": "https://i.ibb.co/jTM79HF/animation-300-lizy8gr1.gif",
+        "details": "Introducing Habib, a skilled Arabic language teacher dedicated to helping students unlock the beauty and intricacies of the Arabic language. With his immersive teaching methods, cultural insights, and patient guidance, Habib creates a supportive environment where students develop fluency and a deep appreciation for Arabic. His expertise and passion make him a highly sought-after professional in the field of Arabic language education."
+    },
+    
+    {
+        "name": "Jhankar Mahbub",
+        "course": "German Language",
+        "email" : "Jhaker@gamil.com",
+        "image": "https://i.ibb.co/5cdsGxc/innnn.png",
+        "details": "Meet Jhankar, an experienced German language teacher who brings the richness of German culture and language to his students. With his engaging teaching techniques, personalized guidance, and a deep understanding of the language, Jhankar creates a vibrant and immersive learning environment where students gain proficiency and confidence in speaking German. His dedication and expertise make him a sought-after professional in the field of German language education."
+    },
+    
+    {
+        "name": "Nusrat Jahan",
+        "course": "Portuguese Language",
+        "email" : "Nurat@jahan.com",
+        "photo" : "https://i.ibb.co/Hd5smcW/ins2.png",
+        "details": "Introducing Nusrat, a skilled Portuguese language teacher with a passion for sharing the beauty of the Portuguese language and culture. With her interactive teaching methods, cultural immersion activities, and personalized guidance, Maria creates a dynamic learning environment where students develop fluency and a deep appreciation for Portuguese. Her expertise and dedication make her a highly sought-after professional in the field of Portuguese language education."
+    },
+     
+]

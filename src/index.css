@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.drawer-side a.active {
+    color: white;
+  }
+
+.drawer-side a {
+    color: black;
+  }
+
+.navbar a.active {
+  color : red;
+  background-color: white;
+  border: 0 ;
+  border-bottom: 5px solid green;
+
+}
+.navbar a:hover {
+  color : white;
+  background-color: green;
+  border: 0 ;
+
+}
+.tabwork ul.li:focus{
+  color: red;
+  background-color: blue;
+}
